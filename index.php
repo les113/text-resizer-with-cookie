@@ -64,7 +64,7 @@ $(document).ready(function(){
 </script>
 
 <!-- style and position -->
-<style "type=text/css">
+<style type="text/css">
 	#textsizer a {	color:#ff9900;}
 	.smaller {font-size:80%;}
 	.normal {font-size:100%;}
